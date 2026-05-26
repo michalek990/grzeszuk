@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { ArrowLeft, Scale, ShieldCheck, Clock, FileText, Building2, Users, MapPin, Phone, ChevronRight } from 'lucide-react';
 

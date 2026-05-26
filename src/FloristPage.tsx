@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import type { Variants } from 'framer-motion';
 import { ArrowLeft, MapPin, Clock, Phone, Flower2, Heart, Gift, Camera, X } from 'lucide-react';
